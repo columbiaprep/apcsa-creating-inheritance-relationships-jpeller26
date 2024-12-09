@@ -1,4 +1,4 @@
-public class Adventurer {
+public class Adventurer extends Entity{
     private String name;
     private int maxHP;
     private int currentHP;
