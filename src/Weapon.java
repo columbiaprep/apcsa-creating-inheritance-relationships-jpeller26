@@ -1,0 +1,1 @@
+Public class Weapon extends
