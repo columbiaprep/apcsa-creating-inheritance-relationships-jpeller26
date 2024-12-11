@@ -1,1 +1,3 @@
-Public class Weapon extends
+public class Weapon extends Equipment{
+
+}

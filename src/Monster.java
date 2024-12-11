@@ -1,3 +1,3 @@
-Public class Monster extends Entity{
+public class Monster extends Entity{
 
 }

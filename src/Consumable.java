@@ -1,3 +1,3 @@
-Public class Consumable extends Item{
+public class Consumable extends Item{
 
 }
